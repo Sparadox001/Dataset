@@ -1,1 +1,1 @@
-this is a test
+split_data为垃圾分类数据集，已划分训练集和测试集，共40个类
